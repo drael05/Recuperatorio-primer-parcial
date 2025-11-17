@@ -231,17 +231,18 @@ def bubble_sort(arreglo:list) -> list:
                 arreglo[j] = temp
     return arreglo
 
-array_nombres = ["pedro frachez","ana frank","juan roman","leo messi","mayra mendoza", " tanque silva"]
-matriz_puntuaciones = [
-    [10,7,7],
-    [10,7,7],
-    [6,5,5],
-    [3,2,2],
-    [5,3,3],
-    [2,1,1],
-]
+#array_nombres = ["pedro frachez","ana frank","juan roman","leo messi","mayra mendoza", " tanque silva"]
+#matriz_puntuaciones = [
+#    [10,7,7],
+#   [10,7,7],
+#    [6,5,5],
+#   [3,2,2],
+#    [5,3,3],
+ #   [2,1,1],
+#]
 
-array_para_ordenar = [47, 12, 89, 5, 73, 34, 21, 98, 66, 40]
+#array_para_ordenar = [47, 12, 89, 5, 73, 34, 21, 98, 66, 40]
+
 
 
 
